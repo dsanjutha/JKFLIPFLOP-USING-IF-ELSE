@@ -35,6 +35,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 <img width="1919" height="1079" alt="digital ex7,program" src="https://github.com/user-attachments/assets/a2804859-3f0c-45c5-84b5-990e2f5480ee" />
 
 Developed by:d.sanjutha RegisterNumber:25015927*/
+
+
 **RTL LOGIC FOR FLIPFLOPS**
 <img width="1909" height="1079" alt="digital ex7,output" src="https://github.com/user-attachments/assets/0e6d8798-8ff9-4fa8-8f25-86671f326c6b" />
 
